@@ -32,3 +32,8 @@ ls
 docker run <<fosfordevops/csvgenerator:latest>>
 
 
+ls
+cd appserver/
+ls
+cd solution/
+ls
